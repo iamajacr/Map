@@ -2,9 +2,12 @@
 This is a city simulator on ptyhon using nodes and attend
 
 
+    For the code to run correctly, you must:
 
-  #para que el codigo se ejecute correctamente debera de :
-    #0. Tener Python 3.10 o superior instalado
-    #1. Instalar PyQt6: pip install PyQt6
-    #2. Instalar NetworkX: pip install networkx
-    #3.abrir el archivo map.py y ejecutar: python map.py
+    0. Have Python 3.10 or higher installed
+
+    1. Install PyQt6: pip install PyQt6
+
+    2. Install NetworkX: pip install networkx
+    
+    3. Open the map.py file and run: python map.py
